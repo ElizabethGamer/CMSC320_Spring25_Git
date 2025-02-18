@@ -6,3 +6,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be applied to marketing. An experiment could be run to see which advertisement leads to the higher proportion of buyers.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Both integrate changes from a branch into the main branch, but merge preserves the previous history of both branches, while rebase completely overwrites the history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about data science! :)
