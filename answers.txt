@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It could be applied to marketing. An experiment could be run to see which advertisement leads to the higher proportion of buyers.
